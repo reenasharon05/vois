@@ -1,5 +1,7 @@
 # DATA ANALYTICS USING LLMS - VOIS & AICTE INTERNSHIP
-![AICTE Logo](https://sjbit.edu.in/wp-content/uploads/2021/07/AICTE-Logo-250x250-1.png)
+<div align="center">
+  <img src="https://sjbit.edu.in/wp-content/uploads/2021/07/AICTE-Logo-250x250-1.png" alt="AICTE Logo" width="100"/>
+</div>
 
 ## Tools & Technologies
 **Libraries:** numpy, pandas, seaborn, matplotlib<br>
