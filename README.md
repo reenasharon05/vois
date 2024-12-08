@@ -1,5 +1,5 @@
 # DATA ANALYTICS USING LLMS - VOIS & AICTE INTERNSHIP
-<div align="center">
+<div align="left">
   <img src="https://sjbit.edu.in/wp-content/uploads/2021/07/AICTE-Logo-250x250-1.png" alt="AICTE Logo" width="100"/>
 </div>
 
